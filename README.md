@@ -1,5 +1,7 @@
 # Library-Mangement-Program
 
+[세미프로젝트_도서관리프로그램_최최종.pptx](https://github.com/sj921/library_management_program_/files/10462466/_._.pptx)
+
 ## 프로젝트 주제
 
 > 이 프로그램은 도서관의 도서, 열람실, 회원의 효율적인 관리와 이용을 위해 제작되었습니다.
