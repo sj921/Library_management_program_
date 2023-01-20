@@ -1,6 +1,6 @@
 # Library-Mangement-Program
 
-[세미프로젝트_도서관리프로그램_최최종.pptx](https://github.com/sj921/library_management_program_/files/10462466/_._.pptx)
+[Uploading Library_Management_Program.pptx…]()
 
 ## 프로젝트 주제
 
