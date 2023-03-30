@@ -1,6 +1,5 @@
 # Library-Mangement-Program
 
-[Uploading Library_Management_Program.pptx…]()
 
 ## 프로젝트 주제
 
