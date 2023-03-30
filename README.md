@@ -113,10 +113,11 @@
 >- 회원관리
   >   - 회원 등록
   
-  >    - 수정, 탈퇴
+  >   - 조회
+  >   - 수정
+  >   - 탈퇴
    <img src="https://user-images.githubusercontent.com/111365047/228871132-df1b4391-cecf-4725-ba87-e4609cd29eb8.png" width="800">
    <img src="https://user-images.githubusercontent.com/111365047/228871453-9b8c85c1-3ac5-4892-864d-72691821e0d3.png" width="400">
 
-  >   - 조회
-  <img src="https://user-images.githubusercontent.com/111365047/228877618-79e641fc-145a-4e89-9a47-7f0cbe0bdbd6.png" width="800">
+
 -------------------------------------------------------  
