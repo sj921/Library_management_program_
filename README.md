@@ -75,7 +75,7 @@
   <img src="https://user-images.githubusercontent.com/111365047/228877591-0ad1a55f-97e6-4a9d-8895-ae620a592b3c.png" width="800">
   
   >    - 회원 정보 수정
-  <img src="https://user-images.githubusercontent.com/111365047/228871453-9b8c85c1-3ac5-4892-864d-72691821e0d3.png" width="500">
+  <img src="https://user-images.githubusercontent.com/111365047/228889478-fae4bcd4-d22c-43e7-aa0d-2fe3d287dc9e.png" width="400">
   
   >   - 비밀번호 초기화
   <img src="https://user-images.githubusercontent.com/111365047/228877689-584f5bff-9632-46a3-86ab-4c657b56f431.png" width="800">
@@ -115,7 +115,7 @@
   
   >    - 수정, 탈퇴
    <img src="https://user-images.githubusercontent.com/111365047/228871132-df1b4391-cecf-4725-ba87-e4609cd29eb8.png" width="800">
-   <img src="https://user-images.githubusercontent.com/111365047/228871453-9b8c85c1-3ac5-4892-864d-72691821e0d3.png" width="500">
+   <img src="https://user-images.githubusercontent.com/111365047/228871453-9b8c85c1-3ac5-4892-864d-72691821e0d3.png" width="400">
 
   >   - 조회
   <img src="https://user-images.githubusercontent.com/111365047/228877618-79e641fc-145a-4e89-9a47-7f0cbe0bdbd6.png" width="800">
